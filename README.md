@@ -10,9 +10,9 @@ $ gem install rack
 $ rackup
 ```
 
-`localhost:9292/`へアクセス -> `/hello`へリダイレクト
-`localhost:9292/hello`へアクセス -> `Hello World`を表示
-`localhost:9292/no_page`へアクセス -> `Not Found`を表示
+- `localhost:9292/`へアクセス -> `/hello`へリダイレクト
+- `localhost:9292/hello`へアクセス -> `Hello World`を表示
+- `localhost:9292/no_page`へアクセス -> `Not Found`を表示
 
 ## 参考
 
